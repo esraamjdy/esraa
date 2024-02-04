@@ -1,0 +1,105 @@
+*{ 
+    margin : 0;
+    padding: 0;
+}
+/*
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(furniture.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}*/
+
+#landscape{
+    position: absolute; left: 480px; top: 20px
+    /*height: 50px;
+    width: 50px;*/
+}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+  }
+
+  .navigation {
+    font-family: Times New Roman, Arial;
+    font-size: 22pt;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+  }
+
+.slide {
+position: absolute; left: 24px; top: 250px;
+}  
+
+.slidetitle {
+position: absolute; left: 180px; top: 890px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #000000;
+}.slidetitle {
+position: absolute; left: 180px; top: 890px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #000000;
+}
+
+.slideprevious {
+position: absolute; left: 24px; top: 920px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #000000;
+}
+.slidenext {
+position: absolute; left: 420px; top: 920px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #000000;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+
+
